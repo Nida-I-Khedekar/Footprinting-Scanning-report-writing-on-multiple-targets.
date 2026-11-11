@@ -732,6 +732,7 @@ This Week 2 project represents another step in developing my practical knowledge
 # 🛡️ 10. EVIDENCE COLLECTED
 
 Supporting screenshots and evidence are organized under the corresponding practical modules.
+ Click on ▶ to expand and view the output.
 
 ### 🔎 W2-PM1: Footprinting & Reconnaissance
 
@@ -759,7 +760,7 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>cURL Results</b></summary>
 
-Add your cURL output screenshot here.
+<img width="1365" height="717" alt="Screenshot 2026-11-09 181107" src="https://github.com/user-attachments/assets/167eb9f2-1901-4d56-8cfc-d2602cfcad35" />
 
 </details>
 
