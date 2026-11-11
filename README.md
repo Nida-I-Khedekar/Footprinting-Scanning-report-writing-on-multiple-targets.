@@ -732,7 +732,7 @@ This Week 2 project represents another step in developing my practical knowledge
 # 🛡️ 10. EVIDENCE COLLECTED
 
 Supporting screenshots and evidence are organized under the corresponding practical modules.
- Click on ▶ to expand and view the output.
+<br>(Click on ▶ to expand and view the output)</br>
 
 ### 🔎 W2-PM1: Footprinting & Reconnaissance
 
@@ -767,7 +767,7 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>Wafw00f Results</b></summary>
 
-Add your Wafw00f output screenshot here.
+<img width="1365" height="720" alt="Screenshot 2026-11-09 181547" src="https://github.com/user-attachments/assets/98ac8068-2cae-481e-8046-4e98a13079bc" />
 
 </details>
 
