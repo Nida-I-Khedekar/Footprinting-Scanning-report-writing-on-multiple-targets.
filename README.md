@@ -62,6 +62,10 @@ The local network discovery exercise was performed within my own network environ
 * Sensitive information, including personal email addresses, device links, and identifying network details, should be redacted before publication.
 * Any further testing against third-party systems requires explicit authorization from the relevant owner.
 
+Unauthorized access, scanning, enumeration, exploitation, or interference with computer systems may violate applicable laws and regulations.
+
+*Do not use the techniques, commands, or information contained in this repository against systems without explicit authorization.*
+
 The author, instructor, and NetworkWalks are not responsible for misuse of the information contained in this report.
 
 > 🛡️ Security principle: Always understand and respect the authorized scope before conducting security testing.
