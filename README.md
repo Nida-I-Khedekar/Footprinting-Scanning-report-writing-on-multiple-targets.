@@ -738,7 +738,7 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>WHOIS Results</b></summary>
 
-Add your WHOIS command output screenshot here.
+<img width="1365" height="721" alt="Screenshot 2026-11-09 174846" src="https://github.com/user-attachments/assets/d188868b-fa3d-4a88-99dd-26686d28d648" />
 
 </details>
 
