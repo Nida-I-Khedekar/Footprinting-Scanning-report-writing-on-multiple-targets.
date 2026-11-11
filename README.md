@@ -150,7 +150,7 @@ Each practical was documented with its objective, tools, activities, observation
 | 📚 Google Hacking Database | Google Dorking reference                          |
 | 🧩 Maltego                 | OSINT and relationship mapping                    |
 | 🛰️ theHarvester           | Email, subdomain, and host information gathering  |
-| 🌐 Zenmap                  | Graphical interface for Nmap                      |
+| 🌐 Zenmap / Nmap GUI      | Network discovery and host scanning               |
 | 💻 Windows CMD             | Local IP configuration and network identification |
 
 ---
