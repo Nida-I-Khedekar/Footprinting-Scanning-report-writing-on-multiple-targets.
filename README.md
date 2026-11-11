@@ -815,7 +815,7 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>Task 1 – Baidu Information Gathering</b></summary>
 
-Add the output screenshot for the Baidu command here.
+<img width="1365" height="718" alt="Screenshot 2026-11-10 153629" src="https://github.com/user-attachments/assets/3d531bf9-f2d0-4a00-bf83-e525f3fa541a" />
 
 </details>
 
