@@ -30,7 +30,7 @@ Cybersecurity Intern | NetworkWalks | Batch B084
 | 🎯 Assessment Targets | NetworkWalks domain, public-source OSINT exercises, own local network                            |
 | 🔎 Phase 1            | Reconnaissance & Footprinting                                                                    |
 | 🌐 Phase 2            | Scanning & Network Discovery                                                                     |
-| 🚧 Phases 3–5         | Beyond the scope of the Week 2 practical exercises                                               |
+| 🚧 Phases 3–5         | In Progress                                               |
 | 🖥️ Primary Platforms | Kali Linux and Windows                                                                           |
 | 🛠️ Primary Tools     | WHOIS, WhatWeb, Nslookup, cURL, Wafw00f, DNSRecon, Google Dorking, Maltego, theHarvester, Zenmap |
 
