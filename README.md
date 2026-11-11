@@ -783,7 +783,7 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>Task 1 – Security Camera Search</b></summary>
 
-Add a screenshot of the search query and safely redacted results here.
+<img width="1365" height="720" alt="Screenshot 2026-11-10 210349" src="https://github.com/user-attachments/assets/9157a079-eabe-4289-89ec-7ae6a669c4df" />
 
 </details>
 
@@ -793,6 +793,13 @@ Add a screenshot of the search query and safely redacted results here.
 Add a screenshot of the search query and relevant results here.
 
 </details>
+<br>
+<details>
+<summary><b>Output record</b></summary>
+
+Add a screenshot of the search query and relevant results here.
+
+</details></br>
 
 ### 🧩 W2-PM3: Maltego
 
