@@ -13,7 +13,7 @@
 
 ### 👤 Nida Ibrahim Khedekar
 
-Cybersecurity Intern | NetworkWalks | Batch B082
+Cybersecurity Intern | NetworkWalks | Batch B084
 
 </div>
 
