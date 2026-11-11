@@ -498,7 +498,7 @@ Organizations can use similar techniques to understand their external informatio
 **Tool:** Zenmap / Nmap GUI
 
 
-The objective was to:
+### The objective was to:
 
 - Identify the local IP address
 - Determine the local subnet
@@ -513,20 +513,20 @@ The identified subnet was then entered into Zenmap.
 
 ### 🔍 Scan Type
 
-text
+```text
 Ping Scan
-
+```
 
 The scan was used to identify active devices on the local network.
 
 ### Example Hosts Identified
 
-text
+```text
 10.0.0.1
 10.0.0.4
 10.0.0.19
 10.0.0.5
-
+```
 
 The practical example also identified associated MAC addresses.
 
