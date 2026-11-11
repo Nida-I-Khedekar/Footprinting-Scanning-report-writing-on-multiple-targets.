@@ -611,7 +611,7 @@ No exploitation or vulnerability validation is claimed in this assessment.
 
 ---
 
-# 🛡️ 6. SECURITY RECOMMENDATIONS
+# 🛡️ 6. RECOMMENDATIONS
 
 Based on the techniques explored during the practical exercises, the following security recommendations are suggested.
 
@@ -752,9 +752,9 @@ This Week 2 project represents another step in developing my practical knowledge
 
 ---
 
-# 🛡️ 10. EVIDENCE & PRACTICAL DOCUMENTATION
+# 🛡️ 10. EVIDENCE COLLECTED
 
-Supporting screenshots and evidence should be organized under the corresponding practical modules.
+Supporting screenshots and evidence are organized under the corresponding practical modules.
 
 ### 🔎 W2-PM1: Footprinting & Reconnaissance
 
@@ -883,10 +883,10 @@ As part of the NetworkWalks Academy training program, a knowledge assessment was
 | ------------------ | -------------------- |
 | 🎓 Academy         | NetworkWalks Academy |
 | 📚 Program         | Cybersecurity        |
-| 📅 Assessment Date | [Add actual date]    |
-| 🧪 Assessment Type | Knowledge Assessment |
-| 📊 Score           | [Add actual score]   |
-| ✅ Result           | [Add actual result]  |
+| 📅 Assessment Date | 10 November 2026    |
+| 🧪 Assessment Type | Short Knowledge Quiz |
+| 📊 Score           | [29% (10/10)]        |
+| ✅ Result           | Passed / Completed  |
 
 ### 📸 Score Evidence
 
@@ -954,7 +954,7 @@ The Week 2 practical report has been prepared. Post-exploitation activities and 
 
 ## Nida Ibrahim Khedekar
 
-**Cybersecurity Intern | NetworkWalks | Batch B082**
+**Cybersecurity Intern | NetworkWalks | Batch B084**
 
 Interested in Cybersecurity, Network Security, Ethical Hacking, and OSINT.
 
@@ -970,7 +970,7 @@ Interested in Cybersecurity, Network Security, Ethical Hacking, and OSINT.
 | ----------------------------- | ------------------------------------------------ |
 | 🏢 Program                    | NetworkWalks Cybersecurity Program               |
 | 📅 Week                       | Week 02                                          |
-| 🎓 Batch                      | B082                                             |
+| 🎓 Batch                      | B084                                             |
 | 🔐 Project Type               | Cybersecurity Practical Assessment               |
 | 🔎 Primary Focus              | Footprinting, Reconnaissance & Network Discovery |
 | 🐉 Primary OS                 | Kali Linux                                       |
@@ -990,7 +990,7 @@ Interested in Cybersecurity, Network Security, Ethical Hacking, and OSINT.
 
 ### Learn → Practice → Analyze → Secure
 
-**W2-PM-FINAL | NetworkWalks | Batch B082**
+**W2-PM-FINAL | NetworkWalks | Batch B084**
 
 </div>
 
