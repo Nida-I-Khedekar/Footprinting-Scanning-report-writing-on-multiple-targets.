@@ -577,7 +577,7 @@ It can support:
 
 ---
 
-# 🛡️ 5. CONSOLIDATED OBSERVATIONS & RISK ANALYSIS
+# 🛡️ 5. RISK ANALYSIS / IMPACT
 
 The following table summarizes the types of observations made possible by the five practical exercises.
 
