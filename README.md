@@ -745,7 +745,7 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>WhatWeb Results</b></summary>
 
-Add your WhatWeb output screenshot here.
+<img width="1364" height="720" alt="Screenshot 2026-11-09 175418" src="https://github.com/user-attachments/assets/46aa9c59-30c3-4245-a901-93a2c5e41130" />
 
 </details>
 
