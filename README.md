@@ -838,7 +838,7 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>Zenmap Network Topology</b></summary>
 
-Add your network topology screenshot or exported PDF here.
+<img width="639" height="465" alt="Screenshot 2026-11-11 200136" src="https://github.com/user-attachments/assets/310ae778-9d4f-43c7-9f9e-951b7d39e519" />
 
 </details>
 
