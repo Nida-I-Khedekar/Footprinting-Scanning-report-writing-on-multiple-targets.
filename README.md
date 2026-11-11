@@ -168,13 +168,14 @@ To perform domain footprinting and reconnaissance using multiple Kali Linux tool
 
 Six tools were used during this practical:
 
-text
+```text
 WHOIS
 WhatWeb
 Nslookup
 curl
 Wafw00f
 DNSRecon
+```
 
 ### 🔹 4.1.1 WHOIS
 
