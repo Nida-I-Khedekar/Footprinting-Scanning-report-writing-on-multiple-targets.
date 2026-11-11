@@ -806,7 +806,7 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>Maltego Domain Investigation</b></summary>
 
-Add a screenshot of the domain entity and investigation graph here. Redact personal email addresses and sensitive details.
+<img width="1365" height="719" alt="Screenshot 2026-11-10 145442" src="https://github.com/user-attachments/assets/0fe2a78c-2751-48eb-9da7-6b5613446e40" />
 
 </details>
 
