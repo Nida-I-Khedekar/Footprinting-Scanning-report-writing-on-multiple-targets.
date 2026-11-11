@@ -166,7 +166,15 @@ Each practical was documented with its objective, tools, activities, observation
 
 To perform domain footprinting and reconnaissance using multiple Kali Linux tools and understand the different types of information that can be collected from a website and its infrastructure.
 
-Six tools were used during this practical.
+Six tools were used during this practical:
+
+text
+WHOIS
+WhatWeb
+Nslookup
+curl
+Wafw00f
+DNSRecon
 
 ### 🔹 4.1.1 WHOIS
 
