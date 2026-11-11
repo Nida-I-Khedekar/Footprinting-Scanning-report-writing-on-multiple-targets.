@@ -822,7 +822,7 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>Task 2 – All Supported Sources</b></summary>
 
-Add the output screenshot for the all-sources command here.
+<img width="1365" height="722" alt="Screenshot 2026-11-10 154813" src="https://github.com/user-attachments/assets/f2eac7d7-a20d-4dde-a451-fa3d8d2bd74f" />
 
 </details>
 
