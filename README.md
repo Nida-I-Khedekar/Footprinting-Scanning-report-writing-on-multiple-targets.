@@ -752,7 +752,7 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>Nslookup Results</b></summary>
 
-Add your Nslookup output screenshot here.
+<img width="1365" height="720" alt="Screenshot 2026-11-09 175816" src="https://github.com/user-attachments/assets/628a47e9-7021-4a50-8942-62b3b0983ae9" />
 
 </details>
 
