@@ -797,7 +797,7 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>Output record</b></summary>
 
-Add a screenshot of the search query and relevant results here.
+<img width="449" height="562" alt="Screenshot 2026-11-11 193956" src="https://github.com/user-attachments/assets/9204162a-dbd2-4161-bbcc-f747e80be03e" />
 
 </details>
 
