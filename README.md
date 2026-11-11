@@ -24,7 +24,7 @@ Cybersecurity Intern | NetworkWalks | Batch B084
 | Category              | Details                                                                                          |
 | --------------------- | ------------------------------------------------------------------------------------------------ |
 | 👤 Intern / Author    | Nida Ibrahim Khedekar                                                                            |
-| 🎓 Program / Batch    | NetworkWalks Cybersecurity Program / B082                                                        |
+| 🎓 Program / Batch    | NetworkWalks Cybersecurity Program / B084                                                        |
 | 📅 Assessment Period  | Week 2                                                                                           |
 | 🧪 Modules Completed  | W2-PM1, W2-PM2, W2-PM3, W2-PM4, W2-PM5                                                           |
 | 🎯 Assessment Targets | NetworkWalks domain, public-source OSINT exercises, own local network                            |
