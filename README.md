@@ -196,10 +196,10 @@ WhatWeb was used to fingerprint technologies exposed by the website.
 
 The observed results identified technologies including:
 
-text
+```text
 WordPress 7.0.4
 WP Download Manager 3.3.58
-
+```
 
 *Security relevance:*
 
@@ -215,9 +215,9 @@ Nslookup was used to resolve the target domain to its associated IP address.
 
 *Observed result:*
 
-text
+```text
 192.232.216.135
-
+```
 
 *Security relevance:*
 
@@ -235,9 +235,9 @@ curl -I networkwalks.com
 
 The response provided additional information about the web application and exposed the following REST API endpoint:
 
-text
+```text
 /wp-json/
-
+```
 
 *Security relevance:*
 
@@ -251,9 +251,9 @@ Wafw00f was used to determine whether a Web Application Firewall was protecting 
 
 *Observed result:*
 
-text
+```text
 ModSecurity (SpiderLabs)
-
+```
 
 *Security relevance:*
 
