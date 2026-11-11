@@ -774,7 +774,7 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>DNSRecon Results</b></summary>
 
-Add your DNSRecon output screenshot here.
+<img width="1365" height="717" alt="Screenshot 2026-11-09 181928" src="https://github.com/user-attachments/assets/79526aeb-f418-4440-9e8d-e64c5821aa07" />
 
 </details>
 
