@@ -583,8 +583,8 @@ The following table summarizes the types of observations made possible by the fi
 
 These are potential security considerations, not confirmed vulnerabilities.
 
-| # | 🔎 Finding | 📊 Evidence / Observation | ⚠️ Potential Impact | Risk |
-|---:|---|---|---|----|
+| # | 🔎 Finding | 📊 Evidence / Observation | ⚠️ Potential Impact |  Risk  |
+|---:|---|---|---|---|
 | 1 | Domain registration information is publicly available | Whois lookup returned registrar, creation date and nameserver details | May reveal domain and infrastructure details | 🟢 **Low** |
 | 2 | Website technologies can be fingerprinted | WhatWeb identified WordPress, WP Download Manager and server technologies | May assist further technology research | 🟠 **Medium** |
 | 3 | DNS information can reveal associated infrastructure | DNSRecon / nslookup identified DNS, mail and service records | May help build an external infrastructure profile | 🟠 **Medium** |
