@@ -583,18 +583,19 @@ The following table summarizes the types of observations made possible by the fi
 
 These are potential security considerations, not confirmed vulnerabilities.
 
-| # | 🔎 Finding | 📊 Evidence / Observation | ⚠️ Potential Impact |  Risk  |
+| # | 🔎 Finding | 📊 Evidence / Observation | ⚠️ Potential Impact | Risk&nbsp;&nbsp;&nbsp;&nbsp; |
 |---:|---|---|---|---|
-| 1 | Domain registration information is publicly available | Whois lookup returned registrar, creation date and nameserver details | May reveal domain and infrastructure details | 🟢 **Low** |
-| 2 | Website technologies can be fingerprinted | WhatWeb identified WordPress, WP Download Manager and server technologies | May assist further technology research | 🟠 **Medium** |
-| 3 | DNS information can reveal associated infrastructure | DNSRecon / nslookup identified DNS, mail and service records | May help build an external infrastructure profile | 🟠 **Medium** |
-| 4 | HTTP response information can reveal technical details | curl returned HTTP headers and exposed `/wp-json/` | May assist additional enumeration | 🟢 **Low** |
-| 5 | WAF technology may be identifiable | Wafw00f identified ModSecurity | Reveals information about defensive architecture | 🟢 **Low** |
-| 6 | Search engines may index camera-related interfaces | Google Dorking returned camera-related indexed pages | Misconfigured interfaces may expose sensitive resources | 🟠 **Medium** |
-| 7 | Public directory listings may expose downloadable files | Directory enumeration found publicly accessible listing / downloadable files | Unintended file exposure may disclose information | 🟠 **Medium** |
-| 8 | Domain-related entities may be connected through OSINT | OSINT correlation linked domain to related entities / infrastructure | Helps build a broader digital footprint | 🟢 **Low** |
-| 9 | Public email and subdomain information may be discoverable | theHarvester / subdomain enumeration found public emails and subdomains | May increase exposure to phishing and reconnaissance | 🟠 **Medium** |
-| 10 | Multiple active devices may be discovered on a local network | Zenmap Ping Scan identified 4 live hosts on Wi-Fi subnet | Unknown devices may indicate unmanaged assets | 🟠 **Medium** |
+| 1 | Domain registration information is publicly available | Whois lookup returned registrar, creation date and nameserver details | May reveal domain and infrastructure details | 🟢&nbsp;Low |
+| 2 | Website technologies can be fingerprinted | WhatWeb identified WordPress, WP Download Manager and server technologies | May assist further technology research | 🟠&nbsp;Medium |
+| 3 | DNS information can reveal associated infrastructure | DNSRecon / nslookup identified DNS, mail and service records | May help build an external infrastructure profile | 🟠&nbsp;Medium |
+| 4 | HTTP response information can reveal technical details | curl returned HTTP headers and exposed `/wp-json/` | May assist additional enumeration | 🟢&nbsp;Low |
+| 5 | WAF technology may be identifiable | Wafw00f identified ModSecurity | Reveals information about defensive architecture | 🟢&nbsp;Low |
+| 6 | Search engines may index camera-related interfaces | Google Dorking returned camera-related indexed pages | Misconfigured interfaces may expose sensitive resources | 🟠&nbsp;Medium |
+| 7 | Public directory listings may expose downloadable files | Directory enumeration found publicly accessible listing / downloadable files | Unintended file exposure may disclose information | 🟠&nbsp;Medium |
+| 8 | Domain-related entities may be connected through OSINT | OSINT correlation linked domain to related entities / infrastructure | Helps build a broader digital footprint | 🟢&nbsp;Low |
+| 9 | Public email and subdomain information may be discoverable | theHarvester / subdomain enumeration found public emails and subdomains | May increase exposure to phishing and reconnaissance | 🟠&nbsp;Medium |
+| 10 | Multiple active devices may be discovered on a local network | Zenmap Ping Scan identified 4 live hosts on Wi-Fi subnet | Unknown devices may indicate unmanaged assets | 🟠&nbsp;Medium |
+
 
 ### Risk Rating Key
 
