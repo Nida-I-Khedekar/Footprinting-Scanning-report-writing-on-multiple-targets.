@@ -493,74 +493,51 @@ Organizations can use similar techniques to understand their external informatio
 
 ## 4.5 🛰️ W2-PM5: NETWORK DISCOVERY USING ZENMAP
 
-### Objective
-
-To identify active hosts within my own local network and understand how Zenmap can be used to visualize network topology.
 
 **Environment:** Windows
 **Tool:** Zenmap / Nmap GUI
 
-### 🔹 Step 1: Identify Local Network Configuration
 
-The Windows Command Prompt was used to identify the local network configuration.
+The objective was to:
 
-**Command:**
+- Identify the local IP address
+- Determine the local subnet
+- Discover active hosts
+- Identify IP addresses
+- Identify MAC addresses
+- Generate a network topology
 
-```cmd
-ipconfig
-```
+The Windows ipconfig command was first used to identify the local network configuration.
 
-The output was examined to identify:
+The identified subnet was then entered into Zenmap.
 
-* IPv4 address.
-* Subnet mask.
-* Default gateway.
-* Active network adapter.
+### 🔍 Scan Type
 
-### 🔹 Step 2: Determine the Local Subnet
+text
+Ping Scan
 
-The local IPv4 address and subnet mask were used to determine the network range for the discovery exercise.
 
-### 🔹 Step 3: Perform a Ping Scan
+The scan was used to identify active devices on the local network.
 
-The identified local network range was entered into Zenmap.
+### Example Hosts Identified
 
-**Scan Type:** Ping Scan
+text
+10.0.0.1
+10.0.0.4
+10.0.0.19
+10.0.0.5
 
-The scan was used to discover active hosts within the authorized local network.
 
-### 🔹 Step 4: Identify Active Hosts
+The practical example also identified associated MAC addresses.
 
-The scan results were examined to identify:
+After completing the scan, the *Topology* section in Zenmap was used to visualize the discovered network.
 
-* Active host IP addresses.
-* Available MAC address information.
-* Number of discovered hosts.
-* Other host discovery information returned by the scan.
+The topology legend was enabled and the resulting network topology was saved in PDF format as required by the practical exercise.
 
-### 🔹 Step 5: Generate Network Topology
+> *Important:* The addresses above represent the example results supplied for the practical. When submitting the final assessment, they should be replaced with the actual results from my authorized local network.
 
-After completing the scan:
+---
 
-1. Opened the Topology section in Zenmap.
-2. Examined the graphical representation of discovered hosts.
-3. Enabled the topology legend where required.
-4. Reviewed the network visualization.
-5. Saved the resulting network topology as a PDF.
-
-### 🔹 Security Relevance
-
-Network discovery helps organizations maintain visibility into their internal infrastructure.
-
-It can support:
-
-* Identification of active devices.
-* Network inventory management.
-* Investigation of unexpected devices.
-* Network documentation.
-* Internal security monitoring.
-
-> 🛡️ The practical used a Ping Scan for host discovery. It should not be described as a full port or service vulnerability scan.
 
 ### 📊 PM5 Summary
 
