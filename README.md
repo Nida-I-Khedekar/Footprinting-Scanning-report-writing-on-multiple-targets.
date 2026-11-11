@@ -176,132 +176,108 @@ curl
 Wafw00f
 DNSRecon
 ```
+Each tool provided a different perspective of the target's publicly observable infrastructure.
+
+---
 
 ### 🔹 4.1.1 WHOIS
 
-**Purpose:** To collect publicly available domain registration information.
+WHOIS was used to collect publicly available domain registration information and identify relevant domain infrastructure, including name-server information.
 
-**Command:**
+*Security relevance:*
 
-```bash
-whois networkwalks.com
-```
+WHOIS information can provide an initial understanding of how a domain is registered and which infrastructure is associated with it.
 
-**Information examined:**
-
-* Domain registrar information.
-* Domain registration and expiry details.
-* Name servers.
-* Publicly available registration information.
-
-**Security relevance:**
-
-WHOIS information provides an initial understanding of domain ownership and associated domain infrastructure.
+---
 
 ### 🔹 4.1.2 WhatWeb
 
-**Purpose:** To identify technologies and frameworks used by the target website.
+WhatWeb was used to fingerprint technologies exposed by the website.
 
-**Command:**
+The observed results identified technologies including:
 
-```bash
-whatweb https://networkwalks.com
-```
+text
+WordPress 7.0.4
+WP Download Manager 3.3.58
 
-**Information examined:**
 
-* Web technologies.
-* Content Management System indicators.
-* Server-related information.
-* Other identifiable technology components.
+*Security relevance:*
 
-**Security relevance:**
+Technology and version information can assist security professionals in identifying software that may require additional security review.
 
-Technology fingerprinting helps security professionals understand the software environment and identify components that may require additional security review.
+> 🛡️ Technology identification does *not* automatically indicate that a vulnerability exists.
 
-> 🛡️ Identifying a technology or software version does not automatically mean that a vulnerability exists.
+---
 
 ### 🔹 4.1.3 Nslookup
 
-**Purpose:** To resolve the target domain and retrieve DNS-related information.
+Nslookup was used to resolve the target domain to its associated IP address.
 
-**Command:**
+*Observed result:*
 
-```bash
-nslookup networkwalks.com
-```
+text
+192.232.216.135
 
-**Information examined:**
 
-* Domain-to-IP resolution.
-* DNS response information.
-* Associated DNS server information.
+*Security relevance:*
 
-**Security relevance:**
+IP resolution provides information about the network location associated with a web service and may support further authorized infrastructure analysis.
 
-DNS resolution helps establish the network information associated with a domain and supports further authorized infrastructure analysis.
+---
 
 ### 🔹 4.1.4 cURL
 
-**Purpose:** To inspect HTTP response headers returned by the target website.
+The following HTTP-header inspection technique was used:
 
-**Command:**
+bash
+curl -I networkwalks.com
 
-```bash
-curl -I https://networkwalks.com
-```
 
-**Information examined:**
+The response provided additional information about the web application and exposed the following REST API endpoint:
 
-* HTTP response status.
-* Server-related response headers.
-* Content and security-related headers.
-* Other publicly returned HTTP information.
+text
+/wp-json/
 
-**Security relevance:**
 
-HTTP response inspection helps understand how a web server responds to requests and whether unnecessary technical information is exposed.
+*Security relevance:*
+
+HTTP response information can assist with technology fingerprinting and further authorized enumeration.
+
+---
 
 ### 🔹 4.1.5 Wafw00f
 
-**Purpose:** To identify whether a Web Application Firewall may be protecting the target website.
+Wafw00f was used to determine whether a Web Application Firewall was protecting the target.
 
-**Command:**
+*Observed result:*
 
-```bash
-wafw00f https://networkwalks.com
-```
+text
+ModSecurity (SpiderLabs)
 
-**Information examined:**
 
-* Possible WAF presence.
-* Identifiable WAF technology.
-* Defensive infrastructure indicators.
+*Security relevance:*
 
-**Security relevance:**
+Identifying defensive technologies can help security professionals understand the security architecture protecting a web application.
 
-Understanding the presence of a WAF provides insight into the defensive technologies used to protect a web application.
+---
 
 ### 🔹 4.1.6 DNSRecon
 
-**Purpose:** To perform DNS enumeration and collect DNS-related information.
+DNSRecon was used to enumerate publicly accessible DNS information.
 
-**Command:**
+The activity provided information relating to:
 
-```bash
-dnsrecon -d networkwalks.com
-```
+- Name servers
+- Mail servers
+- SPF / TXT records
+- Service records
+- DNS-related information
 
-**Information examined:**
+*Security relevance:*
 
-* Name server records.
-* Mail server records.
-* TXT and SPF records.
-* Other available DNS records.
+DNS information can help create a broader understanding of an organization's publicly exposed infrastructure.
 
-**Security relevance:**
-
-DNS enumeration helps build an understanding of publicly available domain infrastructure and its associated services.
+---
 
 ### 📊 PM1 Summary
 
