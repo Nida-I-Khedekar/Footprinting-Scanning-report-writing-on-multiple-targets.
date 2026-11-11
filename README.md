@@ -653,6 +653,7 @@ Reconnaissance, scanning, and further security testing should always remain with
 | 🗺️ Network Topology Visualization   | PM5                 | ✅ Completed   |
 | 🧪 Vulnerability Validation          | Beyond Week 2 scope | Not performed |
 | 💥 Exploitation                      | Beyond Week 2 scope | Not performed |
+| 🚧 Advanced Testing                      | Beyond Week 2 scope | Not performed |
 
 ### Overall Practical Progress
 
@@ -671,6 +672,15 @@ W2-PM4  theHarvester
 
 W2-PM5  Zenmap Network Discovery
         ████████████████████ 100% COMPLETED
+```
+
+### Overall Assessment
+
+```text
+RECONNAISSANCE       ████████████████████ 100%
+FOOTPRINTING         ████████████████████ 100%
+NETWORK DISCOVERY    ████████████████████ 100%
+EXPLOITATION         ░░░░░░░░░░░░░░░░░░░░   0%
 ```
 
 ---
@@ -875,43 +885,29 @@ The knowledge assessment complemented the practical exercises by providing an op
 
 The following section represents the progress of the broader penetration testing lifecycle. It should not be confused with the completion status of the five Week 2 practical modules.
 
-### PHASE 1 — RECONNAISSANCE & FOOTPRINTING
-
 ```text
+PHASE 1
+Reconnaissance & Footprinting
 ████████████████████████████████  COMPLETED ✅
-```
 
-Activities covered through domain footprinting, Google Dorking, Maltego, and theHarvester.
-
-### PHASE 2 — SCANNING & NETWORK DISCOVERY
-
-```text
+PHASE 2
+Scanning & Network Discovery
 ████████████████████████████████  COMPLETED ✅
+
+PHASE 3
+Vulnerability Assessment
+████████████████░░░░░░░░░░░░░░░░  IN PROGRESS 🔄
+
+PHASE 4
+Exploitation
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  PENDING ⏳
+
+PHASE 5
+Reporting & Remediation
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  PENDING ⏳
 ```
 
-Activities covered through local network discovery and Zenmap.
-
-### PHASE 3 — VULNERABILITY ASSESSMENT
-
-```text
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  NOT COVERED IN WEEK 2
-```
-
-No vulnerability validation was performed as part of these five practicals.
-
-### PHASE 4 — EXPLOITATION
-
-```text
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  NOT COVERED IN WEEK 2
-```
-
-No exploitation activities were performed.
-
-### PHASE 5 — REPORTING & REMEDIATION
-
-```text
-████████████████░░░░░░░░░░░░░░░░  DOCUMENTATION COMPLETED
-```
+---
 
 The Week 2 practical report has been prepared. Post-exploitation activities and remediation validation were not performed.
 
