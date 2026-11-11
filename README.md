@@ -11,7 +11,7 @@
 
 **W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS**
 
-### 👤 Nida Ibrahim Khedekar
+### 👩‍💻 Nida Ibrahim Khedekar
 
 Cybersecurity Intern | NetworkWalks | Batch B084
 
