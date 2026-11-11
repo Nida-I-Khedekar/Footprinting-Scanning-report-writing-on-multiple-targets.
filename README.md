@@ -5,7 +5,7 @@
 ### 🔎 FOOTPRINTING, RECONNAISSANCE & NETWORK DISCOVERY
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-NETWORKWALKS-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/WEEK%202-B082-6F42C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WEEK%202-B084-6F42C1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ETHICAL%20TESTING-AWARENESS-0EA5E9?style=for-the-badge" />
 
