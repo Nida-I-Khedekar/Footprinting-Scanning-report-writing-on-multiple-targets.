@@ -790,16 +790,16 @@ Supporting screenshots and evidence are organized under the corresponding practi
 <details>
 <summary><b>Task 2 – Mathematics PDF Search</b></summary>
 
-Add a screenshot of the search query and relevant results here.
+<img width="1365" height="726" alt="Screenshot 2026-11-10 210527" src="https://github.com/user-attachments/assets/77b9a0c0-a067-4e87-bd85-ad15322d2d31" />
 
 </details>
-<br>
+
 <details>
 <summary><b>Output record</b></summary>
 
 Add a screenshot of the search query and relevant results here.
 
-</details></br>
+</details>
 
 ### 🧩 W2-PM3: Maltego
 
