@@ -861,7 +861,7 @@ As part of the NetworkWalks Academy training program, a knowledge assessment was
 
 ### 📸 Score Evidence
 
-Add your actual quiz result screenshots here.
+<img width="1365" height="725" alt="Screenshot 2026-11-10 211707" src="https://github.com/user-attachments/assets/d72a60ab-e7f9-4b9c-aabd-56da3e704092" />
 
 ### Learning Validation
 
