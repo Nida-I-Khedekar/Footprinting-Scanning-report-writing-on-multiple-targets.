@@ -829,23 +829,9 @@ Supporting screenshots and evidence are organized under the corresponding practi
 ### 🛰️ W2-PM5: Zenmap
 
 <details>
-<summary><b>Windows IP Configuration</b></summary>
-
-Add your `ipconfig` screenshot here.
-
-</details>
-
-<details>
 <summary><b>Zenmap Ping Scan</b></summary>
 
-Add your Ping Scan screenshot here.
-
-</details>
-
-<details>
-<summary><b>Zenmap Host Discovery</b></summary>
-
-Add your host discovery screenshot here.
+<img width="1365" height="719" alt="Screenshot 2026-11-10 204633" src="https://github.com/user-attachments/assets/a375c976-b7f9-4796-9001-2e8c575ae0b9" />
 
 </details>
 
