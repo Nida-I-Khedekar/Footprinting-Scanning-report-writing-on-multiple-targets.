@@ -599,14 +599,6 @@ These are potential security considerations, not confirmed vulnerabilities.
 
 ### Risk Rating Key
 
-| Indicator | Severity |
-|---|---|
-| 🔴 | **Critical** |
-| 🟠 | **Medium** |
-| 🟢 | **Low** |
-
-### Risk Rating Key
-
 | Indicator   | Meaning                                    |
 | ----------- | ------------------------------------------ |
 | 🔴 Critical | Requires urgent investigation if confirmed |
